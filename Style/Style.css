@@ -217,4 +217,13 @@ main > section {
         gap: 50px;
         justify-items: center;
     }
+
+    .facts {
+        text-align: center;
+    }
+
+    .fact-description {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
 }
